@@ -1,16 +1,23 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from "react";
+import {
+  BrowserRouter,
+  Route,
+  Routes
+
+} from 'react-router-dom'
+import Feed from "./pages/Feed"
+import Prod from "./pages/Prod"
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  const token = localStorage.getItem('token')
   return (
     <>
-      <h1 className="text-3xl font-bold underline">
-        Hello world! from assign 1
-      </h1>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Feed />}></Route>
+          <Route path="/product" element={<Prod />}></Route>
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }

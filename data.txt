@@ -1,0 +1,17 @@
+{
+  "companyName": "Winner",
+  "clientID": "1df259c7-76b8-4801-afee-974ee905bce9",
+  "clientSecret": "bUDkYUPDqpQeOULq",
+  "ownerName": "Om Pratap Singh",
+  "ownerEmail": "singh.omkara07@gmail.com",
+  "rollNo": "2100540100116"
+}
+
+
+
+
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYwMDc2LCJpYXQiOjE3MjQxNTk3NzYsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjFkZjI1OWM3LTc2YjgtNDgwMS1hZmVlLTk3NGVlOTA1YmNlOSIsInN1YiI6InNpbmdoLm9ta2FyYTA3QGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6Ildpbm5lciIsImNsaWVudElEIjoiMWRmMjU5YzctNzZiOC00ODAxLWFmZWUtOTc0ZWU5MDViY2U5IiwiY2xpZW50U2VjcmV0IjoiYlVEa1lVUERxcFFlT1VMcSIsIm93bmVyTmFtZSI6Ik9tIFByYXRhcCBTaW5naCIsIm93bmVyRW1haWwiOiJzaW5naC5vbWthcmEwN0BnbWFpbC5jb20iLCJyb2xsTm8iOiIyMTAwNTQwMTAwMTE2In0.HQRx_hWzMvEZMhazlMmYI1gXnomN0z4z6K6-1ywMtJg",
+  "expires_in": 1724160076
+}
